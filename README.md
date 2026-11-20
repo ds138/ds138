@@ -16,11 +16,11 @@ Most of my code is written in research projects at Fraunhofer EMI and lives in i
 
 | | |
 |---|---|
-| **Deep Conformal Prediction** -- uncertainty-aware prediction intervals for time series forecasts| [arXiv 2026](https://arxiv.org/abs/2605.26569) |
+| **Deep Conformal Prediction**: uncertainty-aware prediction intervals for time series forecasts| [arXiv 2026](https://arxiv.org/abs/2605.26569) |
 | **Uncertainty in iceberg detection** from satellite imagery | [ESREL 2025](https://rpsonline.com.sg/proceedings/esrel-sra-e2025/html/ESREL-SRA-E2025-P0089.html) |
-| **AI-ARC Baltic demo** -- AI-based maritime situational awareness | [FUSION 2024](https://ieeexplore.ieee.org/document/10706447) |
-| **HydroGeoSines** -- open-source Python package for tidal analysis of groundwater data| [GitHub](https://github.com/HydroGeoSines/HydroGeoSines) |
-| **HALS** -- harmonic least-squares amplitude and phase estimation, code for my paper in *Mathematical Geosciences* | [Repo](https://github.com/ds138/HALS) · [Paper](https://doi.org/10.1007/s11004-020-09915-9) |
+| **AI-ARC Baltic demo**: AI-based maritime situational awareness | [FUSION 2024](https://ieeexplore.ieee.org/document/10706447) |
+| **HydroGeoSines**: open-source Python package for tidal analysis of groundwater data| [GitHub](https://github.com/HydroGeoSines/HydroGeoSines) |
+| **HALS**: harmonic least-squares amplitude and phase estimation, code for my paper in *Mathematical Geosciences* | [Repo](https://github.com/ds138/HALS) · [Paper](https://doi.org/10.1007/s11004-020-09915-9) |
 
 **Main tools:** Python · PyTorch · TensorFlow · scikit-learn · pandas · Git
 
